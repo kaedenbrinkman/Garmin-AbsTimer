@@ -16,5 +16,5 @@ By kaedenbrinkman
 If you don’t see your device type, let me know. It shouldn’t be too hard to build a new file for another device.
 Also, if there are any bugs or changes that you would like to report or suggest, let me know as well.
 
-All of the code is available in the Code folder in this Google Drive. The app does not have access to location, movement, or bluetooth data.
+All of the code is available in the Code folder. The app does not have access to location, movement, or bluetooth data.
 If you would like to remove the app from your device, just delete it from where you copied it to.
