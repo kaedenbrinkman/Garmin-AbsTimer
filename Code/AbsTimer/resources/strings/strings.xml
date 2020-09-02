@@ -1,0 +1,9 @@
+<strings>
+    <string id="AppName">AbsTimer</string>
+
+    <string id="prompt">Click the menu button</string>
+
+    <string id="menu_label_1">Five Minute</string>
+    <string id="menu_label_2">Ten Minute</string>
+    <string id="menu_label_3">Plank</string>
+</strings>
