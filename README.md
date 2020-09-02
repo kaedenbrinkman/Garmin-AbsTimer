@@ -1,7 +1,7 @@
 #  AbsTimer for Garmin Smartwatches
 By [kaedenbrinkman](https://github.com/kaedenbrinkman)
 
-![alt text](doc/launch.png "AbsTimer Icon") ![alt text](doc/menu.png "AbsTimer Menu") ![alt text](doc/screen.png "AbsTimer Screen")
+![alt text](doc/screen.png "AbsTimer Screen")
 
 ## Instructions
 -	Usage varies by watch model. On Forerunner 245, press START as if you were going to start an activity. There should be a new activity option called “AbsTimer.” Select it.
@@ -19,3 +19,5 @@ Also, if there are any bugs or changes that you would like to report or suggest,
 
 All of the code is available in the Code folder. The app does not have access to location, movement, or bluetooth data.
 If you would like to remove the app from your device, just delete it from where you copied it to.
+
+![alt text](doc/launch.png "AbsTimer Icon") ![alt text](doc/menu.png "AbsTimer Menu") 
