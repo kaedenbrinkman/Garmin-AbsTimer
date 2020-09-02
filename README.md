@@ -1,6 +1,8 @@
-# AbsTimer for Garmin Smartwatches
+#  AbsTimer for Garmin Smartwatches
 An app for timing your abs routine on your Garmin smartwatch
 By kaedenbrinkman
+
+![alt text](doc/launch.png "AbsTimer Icon") ![alt text](doc/menu.png "AbsTimer Menu") ![alt text](doc/screen.png "AbsTimer Screen")
 
 ## Instructions
 -	Usage varies by watch model. On Forerunner 245, press START as if you were going to start an activity. There should be a new activity option called “AbsTimer.” Select it.
