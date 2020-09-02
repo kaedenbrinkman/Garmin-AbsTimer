@@ -9,15 +9,28 @@ By [kaedenbrinkman](https://github.com/kaedenbrinkman)
 -	Press and hold one of your physical buttons to change what type of abs you are doing. On the Forerunner 245, press and hold the UP button. On Venu, press and hold the back button. You can now select either Ten Minute Abs or Plank Abs as well. If you select the abs that you were already doing, nothing will happen. If you select a new type of abs, the timer will reset. AbsTimer should remember what abs you did last and display that automatically when you open the application in the future.
 
 ## Installation
+1. Verify that it is compatible with your device.
 1.	Connect your device to a computer via USB
-2.	Download the AbsTimer.prg file from the folder that corresponds to your device type
-3.	Copy the AbsTimer.prg file into /GARMIN/APPS/
+2.	Download the .prg file from the [releases page](https://github.com/kaedenbrinkman/Garmin-AbsTimer/releases)
+3.	Copy the .prg file for your device into /GARMIN/APPS/
 4.	Eject the device, then unplug it.
 
-If you don’t see your device type, let me know. It shouldn’t be too hard to build a new file for another device.
-Also, if there are any bugs or changes that you would like to report or suggest, let me know as well.
 
-All of the code is available in the Code folder. The app does not have access to location, movement, or bluetooth data.
 If you would like to remove the app from your device, just delete it from where you copied it to.
+
+## Compatibility
+This app should be compatible with all Garmin smartwatches on this list, but you can only install it on a watch that I've compiled the code for.
+Right now, you can install it on:
+- Forerunner 235
+- Forerunner 245/245 Music
+- Venu
+- Vivoactive
+!If you have a compatible device that is not listed above, [let me know](https://github.com/kaedenbrinkman/Garmin-AbsTimer/issues) and I can add a release for you.
+
+
+If you don’t see your device type, let me know. It shouldn’t be too hard to build a new file for another device.
+Also, if there are any bugs or changes that you would like to report or suggest, [let me know](https://github.com/kaedenbrinkman/Garmin-AbsTimer/issues) as well.
+
+
 
 ![alt text](doc/launch.png "AbsTimer Icon") ![alt text](doc/menu.png "AbsTimer Menu") 
