@@ -1,6 +1,5 @@
 #  AbsTimer for Garmin Smartwatches
-An app for timing your abs routine on your Garmin smartwatch
-By kaedenbrinkman
+By [kaedenbrinkman](https://github.com/kaedenbrinkman)
 
 ![alt text](doc/launch.png "AbsTimer Icon") ![alt text](doc/menu.png "AbsTimer Menu") ![alt text](doc/screen.png "AbsTimer Screen")
 
