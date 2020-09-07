@@ -26,7 +26,7 @@ Right now, you can install it on:
 - Venu
 - Vivoactive
 
-!If you have a compatible device that is not listed above (but it is listed below), [let me know](https://github.com/kaedenbrinkman/Garmin-AbsTimer/issues) and I can add a release for you.
+If you have a compatible device that is not listed above (but it is listed below), [let me know](https://github.com/kaedenbrinkman/Garmin-AbsTimer/issues) and I can add a release for you.
 Right now, the Connect IQ compatible list includes:
 
 - Fenix 6 series (all models)
