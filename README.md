@@ -25,19 +25,20 @@ Right now, you can install it on:
 - Forerunner 245/245 Music
 - Venu
 - Vivoactive
+
 !If you have a compatible device that is not listed above (but it is listed below), [let me know](https://github.com/kaedenbrinkman/Garmin-AbsTimer/issues) and I can add a release for you.
 Right now, the Connect IQ compatible list includes:
 
-Fenix 6 series (all models)
-Fenix 5 (all models)
-Fenix 3/3 HR
-Forerunner 45, 230, 235, 245, 245 Music, 630, 645, 645 Music, 935/945, 735XT and 920XT
-Vivoactive, Vivoactive HR and Vivoactive 3, Vivoactive 3 Music, Vivoactive 4/4S, Venu
-Approach S60
-Edge 520, 820/830, 1000/1030
-D2 Bravo, Quatix 5, Epix, Oregon
-Instinct
-Marq (all models)
+- Fenix 6 series (all models)
+- Fenix 5 (all models)
+- Fenix 3/3 HR
+- Forerunner 45, 230, 235, 245, 245 Music, 630, 645, 645 Music, 935/945, 735XT and 920XT
+- Vivoactive, Vivoactive HR and Vivoactive 3, Vivoactive 3 Music, Vivoactive 4/4S, Venu
+- Approach S60
+- Edge 520, 820/830, 1000/1030
+- D2 Bravo, Quatix 5, Epix, Oregon
+- Instinct
+- Marq (all models)
 
 
 
