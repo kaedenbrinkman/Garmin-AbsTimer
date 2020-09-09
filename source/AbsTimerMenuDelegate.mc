@@ -1,25 +1,19 @@
+// menu2Delegate.mc
+// This code is from Class: Toybox::WatchUi::Menu2InputDelegate API reference
 using Toybox.WatchUi;
 using Toybox.System;
-using Toybox.Application.Storage;
-//Storage.setValue("abs", 2);
+using Toybox.Application;
 
-class AbsTimerMenuDelegate extends WatchUi.MenuInputDelegate {
-
+class AbsTimerMenuDelegate extends WatchUi.Menu2InputDelegate {
     function initialize() {
-        MenuInputDelegate.initialize();
+        Menu2InputDelegate.initialize();
+        
     }
 
-    function onMenuItem(item) {
-        if (item == :item_1) {
-            //Select FABS
-            Application.getApp().setProperty("abs", 0);
-        } else if (item == :item_2) {
-            //Select TABS
-            Application.getApp().setProperty("abs", 1);
-        } else if (item == :item_3) {
-            //Select PLABS
-            Application.getApp().setProperty("abs", 2);
-        }
+    function onSelect(item) {
+        System.println(item.getId());
+        Application.getApp().setProperty("abs", item.getId().toNumber());
+        System.println(Application.getApp().getProperty("abs"));
     }
-
+    
 }

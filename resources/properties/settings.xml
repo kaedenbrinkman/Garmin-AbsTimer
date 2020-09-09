@@ -1,0 +1,33 @@
+<settings>
+
+<setting propertyKey="@Properties.label_1" title="@Strings.rt_lb_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.names_1" title="@Strings.rt_nm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.times_1" title="@Strings.rt_tm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+
+<setting propertyKey="@Properties.label_2" title="@Strings.rt_lb_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.names_2" title="@Strings.rt_nm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.times_2" title="@Strings.rt_tm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+
+<setting propertyKey="@Properties.label_3" title="@Strings.rt_lb_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.names_3" title="@Strings.rt_nm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.times_3" title="@Strings.rt_tm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+
+</settings>

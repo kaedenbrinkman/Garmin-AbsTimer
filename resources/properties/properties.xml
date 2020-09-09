@@ -1,0 +1,23 @@
+<resources>
+
+<properties>
+<property id="routine_labels" type="string">Five Minute,Ten Minute,Plank</property>
+<property id="routine_names" type="string">[Crunches,Crossovers,Crossovers #2,Jackknives,Penguins,Jackknives #2,Circles,Circles #2,Bicycles,Plank][Crossovers,Crossovers #2,Jackknives,Side Crunches,Jackknives #2,Side Crunches #2,Penguins,Russian Twists,Baby Pushers,Circles,Circles #2,Butt Lifts,Flutters,Leg Lifts,Bicycles,Side Plank,Side Plank #2,Plank][Plank,Side Plank,Side Plank #2,High Plank,Shoulder Taps]</property>
+<property id="routine_times" type="string">[30,30,30,30,30,30,30,30,30,60][30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,60][60,60,60,60,60]</property>
+
+
+<property id="label_1" type="string">Five Minute</property>
+<property id="names_1" type="string">Crunches,Crossovers,Crossovers #2,Jackknives,Penguins,Jackknives #2,Circles,Circles #2,Bicycles,Plank</property>
+<property id="times_1" type="string">30,30,30,30,30,30,30,30,30,60</property>
+
+<property id="label_2" type="string">Ten Minute</property>
+<property id="names_2" type="string">Crossovers,Crossovers #2,Jackknives,Side Crunches,Jackknives #2,Side Crunches #2,Penguins,Russian Twists,Baby Pushers,Circles,Circles #2,Butt Lifts,Flutters,Leg Lifts,Bicycles,Side Plank,Side Plank #2,Plank</property>
+<property id="times_2" type="string">30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,60</property>
+
+<property id="label_3" type="string">Plank</property>
+<property id="names_3" type="string">Plank,Side Plank,Side Plank #2,High Plank,Shoulder Taps</property>
+<property id="times_3" type="string">60,60,60,60,60</property>
+
+</properties>
+
+</resources>
