@@ -6,4 +6,17 @@
     <string id="menu_label_1">Five Minute</string>
     <string id="menu_label_2">Ten Minute</string>
     <string id="menu_label_3">Plank</string>
+    <string id="menu_label_4">Stretching</string>
+    <string id="menu_label_5">Myrtles</string>
+    
+    <string id="routine_labels">labels</string>
+    <string id="routine_names">names</string>
+    <string id="routine_times">times</string>
+    <string id="rt_nm_title">Routine Names (Comma-Separated)</string>
+    <string id="rt_lb_title">Routine</string>
+    <string id="rt_tm_title">Routine Times (Comma-Separated)</string>
+    
+    <string id="beep_tone_enabled">Beep Tone (If Available)</string>
+    <string id="vibrate_enabled">Vibrate (If Available)</string>
+    <string id="display_wake_enabled">Display Wake (If Available)</string>
 </strings>

@@ -1,180 +1,421 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
+    <manifest filename="C:\Users\Kaeden\git\Garmin-AbsTimer\manifest.xml"/>
     <pcToLineNum>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="3" lineNum="31" pc="268435456" symbol="initialize"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="3" lineNum="32" pc="268435460" symbol="initialize"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="4" lineNum="35" pc="268435483" symbol="callback1"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="4" lineNum="36" pc="268435487" symbol="callback1"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="4" lineNum="38" pc="268435506" symbol="callback1"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="4" lineNum="39" pc="268435568" symbol="callback1"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="4" lineNum="41" pc="268435589" symbol="callback1"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="5" lineNum="44" pc="268435606" symbol="restart"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="5" lineNum="45" pc="268435610" symbol="restart"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="5" lineNum="46" pc="268435623" symbol="restart"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="5" lineNum="47" pc="268435636" symbol="restart"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="6" lineNum="51" pc="268435647" symbol="onLayout"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="6" lineNum="52" pc="268435651" symbol="onLayout"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="6" lineNum="54" pc="268435685" symbol="onLayout"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="6" lineNum="56" pc="268435726" symbol="onLayout"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="6" lineNum="57" pc="268435739" symbol="onLayout"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="6" lineNum="58" pc="268435752" symbol="onLayout"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="7" lineNum="64" pc="268435763" symbol="onShow"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="68" pc="268435768" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="69" pc="268435772" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="70" pc="268435968" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="71" pc="268436007" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="74" pc="268436022" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="75" pc="268436101" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="77" pc="268436111" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="78" pc="268436129" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="79" pc="268436142" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="80" pc="268436158" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="81" pc="268436196" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="82" pc="268436215" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="83" pc="268436228" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="84" pc="268436243" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="86" pc="268436274" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="87" pc="268436289" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="91" pc="268436341" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="94" pc="268436365" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="96" pc="268436365" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="97" pc="268436401" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="98" pc="268436413" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="99" pc="268436449" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="100" pc="268436528" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="102" pc="268436607" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="104" pc="268436614" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerView.mc" id="9" lineNum="110" pc="268436693" symbol="onHide"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerApp.mc" id="11" lineNum="6" pc="268436698" symbol="initialize"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerApp.mc" id="11" lineNum="7" pc="268436702" symbol="initialize"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerApp.mc" id="12" lineNum="11" pc="268436721" symbol="onStart"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerApp.mc" id="13" lineNum="15" pc="268436726" symbol="onStop"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerApp.mc" id="14" lineNum="19" pc="268436731" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerApp.mc" id="14" lineNum="20" pc="268436735" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerDelegate.mc" id="16" lineNum="5" pc="268436803" symbol="initialize"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerDelegate.mc" id="16" lineNum="6" pc="268436807" symbol="initialize"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerDelegate.mc" id="17" lineNum="9" pc="268436826" symbol="onMenu"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerDelegate.mc" id="17" lineNum="10" pc="268436830" symbol="onMenu"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerDelegate.mc" id="17" lineNum="11" pc="268436914" symbol="onMenu"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="19" lineNum="8" pc="268436918" symbol="initialize"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="19" lineNum="9" pc="268436922" symbol="initialize"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="20" lineNum="12" pc="268436941" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="20" lineNum="13" pc="268436945" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="20" lineNum="15" pc="268436956" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="20" lineNum="16" pc="268436996" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="20" lineNum="18" pc="268437007" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="20" lineNum="19" pc="268437047" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Kaeden\\OneDrive - Bellevue School District\\11th Grade\\Z - Personal\\Coding\\Java\\garmin_workspace\\AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="20" lineNum="21" pc="268437058" symbol="onMenuItem"/>
-        <entry filename="Rez" id="26" lineNum="16" pc="268437099" symbol="MainLayout"/>
-        <entry filename="Rez" id="26" lineNum="18" pc="268437111" symbol="MainLayout"/>
-        <entry filename="Rez" id="26" lineNum="19" pc="268437263" symbol="MainLayout"/>
-        <entry filename="Rez" id="26" lineNum="20" pc="268437375" symbol="MainLayout"/>
-        <entry filename="Rez" id="26" lineNum="22" pc="268437415" symbol="MainLayout"/>
-        <entry filename="Rez" id="29" lineNum="35" pc="268437443" symbol="initialize"/>
-        <entry filename="Rez" id="29" lineNum="36" pc="268437447" symbol="initialize"/>
-        <entry filename="Rez" id="29" lineNum="37" pc="268437465" symbol="initialize"/>
-        <entry filename="Rez" id="29" lineNum="38" pc="268437521" symbol="initialize"/>
-        <entry filename="Rez" id="29" lineNum="39" pc="268437577" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="3" lineNum="28" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="3" lineNum="29" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="3" lineNum="30" pc="268435470" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="3" lineNum="31" pc="268435492" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="3" lineNum="32" pc="268435503" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="3" lineNum="33" pc="268435536" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="3" lineNum="34" pc="268435569" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="3" lineNum="37" pc="268435602" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="3" lineNum="38" pc="268435628" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="3" lineNum="39" pc="268435648" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="3" lineNum="40" pc="268435674" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="3" lineNum="41" pc="268435700" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="3" lineNum="42" pc="268435720" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="4" lineNum="47" pc="268435750" symbol="callback1"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="4" lineNum="48" pc="268435754" symbol="callback1"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="4" lineNum="49" pc="268435765" symbol="callback1"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="4" lineNum="51" pc="268435784" symbol="callback1"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="4" lineNum="52" pc="268435933" symbol="callback1"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="4" lineNum="55" pc="268435957" symbol="callback1"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="5" lineNum="58" pc="268435974" symbol="restart"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="5" lineNum="59" pc="268435978" symbol="restart"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="5" lineNum="60" pc="268435991" symbol="restart"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="5" lineNum="61" pc="268436004" symbol="restart"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="6" lineNum="65" pc="268436015" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="6" lineNum="66" pc="268436019" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="6" lineNum="69" pc="268436053" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="6" lineNum="70" pc="268436066" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="6" lineNum="71" pc="268436079" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="7" lineNum="75" pc="268436090" symbol="start"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="7" lineNum="76" pc="268436094" symbol="start"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="7" lineNum="77" pc="268436135" symbol="start"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="7" lineNum="78" pc="268436145" symbol="start"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="7" lineNum="79" pc="268436162" symbol="start"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="82" pc="268436185" symbol="pause"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="83" pc="268436189" symbol="pause"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="84" pc="268436207" symbol="pause"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="85" pc="268436217" symbol="pause"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="8" lineNum="86" pc="268436234" symbol="pause"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="9" lineNum="89" pc="268436257" symbol="skip"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="9" lineNum="90" pc="268436261" symbol="skip"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="9" lineNum="91" pc="268436272" symbol="skip"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="9" lineNum="92" pc="268436284" symbol="skip"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="9" lineNum="93" pc="268436303" symbol="skip"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="9" lineNum="94" pc="268436316" symbol="skip"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="9" lineNum="95" pc="268436333" symbol="skip"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="10" lineNum="99" pc="268436359" symbol="reset"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="10" lineNum="100" pc="268436363" symbol="reset"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="10" lineNum="101" pc="268436381" symbol="reset"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="10" lineNum="102" pc="268436391" symbol="reset"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="10" lineNum="103" pc="268436404" symbol="reset"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="11" lineNum="109" pc="268436418" symbol="onShow"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="114" pc="268436423" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="115" pc="268436427" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="116" pc="268436465" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="118" pc="268436480" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="119" pc="268436491" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="120" pc="268436687" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="121" pc="268436726" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="122" pc="268436738" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="125" pc="268436773" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="127" pc="268436810" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="128" pc="268436889" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="130" pc="268436899" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="131" pc="268436914" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="132" pc="268436928" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="133" pc="268436947" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="134" pc="268436960" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="135" pc="268436977" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="137" pc="268437002" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="139" pc="268437002" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="140" pc="268437038" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="141" pc="268437050" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="142" pc="268437086" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="143" pc="268437165" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="145" pc="268437220" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="147" pc="268437227" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="149" pc="268437308" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="150" pc="268437344" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="151" pc="268437356" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="152" pc="268437392" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="12" lineNum="153" pc="268437399" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="13" lineNum="160" pc="268437478" symbol="onHide"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="14" lineNum="163" pc="268437483" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="14" lineNum="164" pc="268437487" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="14" lineNum="165" pc="268437500" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="14" lineNum="166" pc="268437508" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="14" lineNum="167" pc="268437515" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="14" lineNum="168" pc="268437539" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="14" lineNum="169" pc="268437553" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="14" lineNum="170" pc="268437564" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="14" lineNum="172" pc="268437586" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="14" lineNum="175" pc="268437599" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="14" lineNum="176" pc="268437639" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="14" lineNum="177" pc="268437653" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="14" lineNum="182" pc="268437676" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="15" lineNum="184" pc="268437680" symbol="getArrFromStr2D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="15" lineNum="185" pc="268437684" symbol="getArrFromStr2D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="15" lineNum="186" pc="268437697" symbol="getArrFromStr2D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="15" lineNum="187" pc="268437705" symbol="getArrFromStr2D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="15" lineNum="188" pc="268437712" symbol="getArrFromStr2D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="15" lineNum="189" pc="268437736" symbol="getArrFromStr2D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="15" lineNum="190" pc="268437767" symbol="getArrFromStr2D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="15" lineNum="192" pc="268437780" symbol="getArrFromStr2D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="15" lineNum="193" pc="268437820" symbol="getArrFromStr2D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="15" lineNum="194" pc="268437847" symbol="getArrFromStr2D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="15" lineNum="199" pc="268437870" symbol="getArrFromStr2D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="16" lineNum="202" pc="268437874" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="16" lineNum="203" pc="268437878" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="16" lineNum="204" pc="268437889" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="16" lineNum="206" pc="268437904" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="17" lineNum="210" pc="268437917" symbol="vibrate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="17" lineNum="211" pc="268437921" symbol="vibrate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="17" lineNum="212" pc="268437973" symbol="vibrate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="17" lineNum="216" pc="268438019" symbol="vibrate"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="18" lineNum="220" pc="268438041" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="18" lineNum="221" pc="268438045" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="18" lineNum="222" pc="268438097" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="18" lineNum="223" pc="268438108" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="18" lineNum="224" pc="268438139" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="18" lineNum="225" pc="268438150" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="18" lineNum="226" pc="268438181" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="18" lineNum="227" pc="268438192" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="18" lineNum="229" pc="268438223" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="234" pc="268438253" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="235" pc="268438257" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="236" pc="268438262" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="237" pc="268438269" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="238" pc="268438269" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="240" pc="268438269" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="241" pc="268438284" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="242" pc="268438291" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="243" pc="268438314" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="244" pc="268438346" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="248" pc="268438366" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="250" pc="268438373" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="251" pc="268438378" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="252" pc="268438393" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="254" pc="268438410" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="22" pc="268440376" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerView.mc" id="19" lineNum="23" pc="268440390" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="21" lineNum="9" pc="268438414" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="21" lineNum="10" pc="268438418" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="21" lineNum="11" pc="268438428" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="21" lineNum="12" pc="268438438" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="21" lineNum="13" pc="268438456" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="22" lineNum="16" pc="268438469" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="22" lineNum="18" pc="268438473" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="22" lineNum="20" pc="268438531" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="22" pc="268438535" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="23" pc="268438539" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="24" pc="268438550" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="25" pc="268438563" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="26" pc="268438576" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="27" pc="268438618" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="28" pc="268438641" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="29" pc="268438664" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="30" pc="268438687" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="31" pc="268438702" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="33" pc="268438739" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="37" pc="268438775" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="38" pc="268438817" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="39" pc="268438840" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="40" pc="268438863" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="41" pc="268438886" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="23" lineNum="42" pc="268438926" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="24" lineNum="46" pc="268438947" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="24" lineNum="47" pc="268438951" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="24" lineNum="49" pc="268438982" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="24" lineNum="50" pc="268438995" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="24" lineNum="51" pc="268439003" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="24" lineNum="52" pc="268439010" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="24" lineNum="53" pc="268439034" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="24" lineNum="55" pc="268439048" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="24" lineNum="58" pc="268439061" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="24" lineNum="59" pc="268439101" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="24" lineNum="60" pc="268439115" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="24" lineNum="64" pc="268439138" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="24" lineNum="65" pc="268439158" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="25" lineNum="68" pc="268439162" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="25" lineNum="71" pc="268439166" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="25" lineNum="72" pc="268439193" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="25" lineNum="73" pc="268439214" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="25" lineNum="75" pc="268439241" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="25" lineNum="76" pc="268439272" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="25" lineNum="77" pc="268439329" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="25" lineNum="78" pc="268439344" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="25" lineNum="79" pc="268439371" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerDelegate.mc" id="25" lineNum="82" pc="268439392" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="27" lineNum="8" pc="268439396" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="27" lineNum="9" pc="268439400" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="28" lineNum="13" pc="268439419" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="28" lineNum="15" pc="268439423" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="28" lineNum="17" pc="268439473" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="29" lineNum="20" pc="268439486" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerMenuDelegate.mc" id="29" lineNum="21" pc="268439490" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="31" lineNum="9" pc="268439509" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="31" lineNum="10" pc="268439513" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="31" lineNum="11" pc="268439531" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="31" lineNum="12" pc="268439563" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="31" lineNum="13" pc="268439575" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="32" lineNum="17" pc="268439614" symbol="onStart"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="33" lineNum="21" pc="268439619" symbol="onStop"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="34" lineNum="25" pc="268439624" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="34" lineNum="28" pc="268439628" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="35" lineNum="31" pc="268439698" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="35" lineNum="32" pc="268439702" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="35" lineNum="33" pc="268439714" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="36" pc="268439731" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="37" pc="268439735" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="39" pc="268439745" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="40" pc="268439776" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="41" pc="268439807" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="42" pc="268439838" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="46" pc="268439864" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="47" pc="268439875" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="49" pc="268439899" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="50" pc="268439925" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="51" pc="268439936" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="53" pc="268439958" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="55" pc="268439984" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="56" pc="268439995" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="58" pc="268440017" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="36" lineNum="59" pc="268440043" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="37" lineNum="62" pc="268440082" symbol="checkArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\git\\Garmin-AbsTimer\\source\\AbsTimerApp.mc" id="38" lineNum="84" pc="268440087" symbol="checkArrFromStr2D"/>
+        <entry filename="Rez" id="44" lineNum="15" pc="268440092" symbol="MainLayout"/>
+        <entry filename="Rez" id="44" lineNum="17" pc="268440104" symbol="MainLayout"/>
+        <entry filename="Rez" id="44" lineNum="19" pc="268440256" symbol="MainLayout"/>
+        <entry filename="Rez" id="47" lineNum="32" pc="268440274" symbol="initialize"/>
+        <entry filename="Rez" id="47" lineNum="33" pc="268440278" symbol="initialize"/>
+        <entry filename="Rez" id="47" lineNum="34" pc="268440311" symbol="initialize"/>
     </pcToLineNum>
     <symbolTable>
-        <entry id="8388644" module="true" symbol="System"/>
-        <entry id="8388987" method="true" symbol="vibrate"/>
-        <entry field="true" id="10" symbol="done"/>
-        <entry id="8389124" method="true" symbol="onUpdate"/>
-        <entry id="8389349" symbol="justification"/>
-        <entry id="8390424" module="true" symbol="Storage"/>
-        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry id="28" object="true" symbol="MainMenu"/>
-        <entry id="8388770" module="true" object="true" symbol="Strings"/>
-        <entry id="22" object="true" symbol="AbsTimerDelegate"/>
-        <entry field="true" id="14" symbol="TABS_NAMES"/>
-        <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry id="29" method="true" symbol="MainLayout"/>
-        <entry field="true" id="15" symbol="TABS_TIMES"/>
-        <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry id="8389123" method="true" symbol="onShow"/>
-        <entry field="true" id="18" symbol="names"/>
-        <entry field="true" id="16" symbol="PLABS_NAMES"/>
-        <entry id="8388636" module="true" symbol="Attention"/>
-        <entry id="23" object="true" symbol="AbsTimerMenuDelegate"/>
-        <entry field="true" id="19" symbol="times"/>
-        <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="17" symbol="PLABS_TIMES"/>
-        <entry field="true" id="34" symbol="AppName"/>
+        <entry id="52" method="true" symbol="skip"/>
+        <entry field="true" id="44" symbol="vibrate_enabled"/>
+        <entry field="true" id="20" symbol="menu"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="22" method="true" symbol="updateMenu"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="8388700" method="true" symbol="callback1"/>
+        <entry id="57" method="true" symbol="toArray"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="28" method="true" symbol="MainLayout"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="10" symbol="done"/>
+        <entry field="true" id="14" symbol="times"/>
+        <entry id="58" symbol="item"/>
+        <entry id="16" object="true" symbol="AbsTimerView"/>
+        <entry id="8390424" module="true" symbol="Storage"/>
+        <entry field="true" id="31" symbol="beep_tone_enabled"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="9" symbol="absType"/>
+        <entry id="53" method="true" symbol="reset"/>
+        <entry field="true" id="35" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8389080" method="true" symbol="onMenu"/>
-        <entry id="38" symbol="item_3"/>
-        <entry id="37" symbol="item_2"/>
-        <entry id="36" symbol="item_1"/>
-        <entry field="true" id="27" symbol="LauncherIcon"/>
-        <entry id="35" method="true" symbol="restart"/>
-        <entry id="8388646" module="true" object="true" symbol="Timer"/>
-        <entry field="true" id="30" symbol="menu_label_3"/>
-        <entry field="true" id="32" symbol="menu_label_2"/>
-        <entry field="true" id="31" symbol="menu_label_1"/>
-        <entry field="true" id="8388696" symbol="timer1"/>
-        <entry id="8388988" method="true" symbol="backlight"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="17" object="true" symbol="AbsTimerDelegate"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
-        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="18" object="true" symbol="AbsTimerMenuDelegate"/>
+        <entry id="8390425" module="true" symbol="Properties"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="50" method="true" symbol="restart"/>
+        <entry field="true" id="43" symbol="prompt"/>
+        <entry id="56" method="true" symbol="startOrStopTimer"/>
+        <entry id="47" method="true" symbol="checkSettings"/>
+        <entry id="23" method="true" symbol="getLabels"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
-        <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry id="8389279" method="true" symbol="onStart"/>
-        <entry field="true" id="26" symbol="id_monkey"/>
-        <entry id="8388985" method="true" symbol="playTone"/>
-        <entry id="8388700" method="true" symbol="callback1"/>
         <entry id="8389348" symbol="font"/>
-        <entry id="8389347" symbol="color"/>
-        <entry id="8389109" method="true" symbol="onMenuItem"/>
-        <entry id="24" module="true" symbol="Layouts"/>
-        <entry id="20" object="true" symbol="AbsTimerView"/>
-        <entry field="true" id="33" symbol="prompt"/>
-        <entry id="8389125" method="true" symbol="onHide"/>
         <entry field="true" id="11" symbol="exercize"/>
-        <entry field="true" id="9" symbol="absType"/>
-        <entry id="8389345" symbol="rezId"/>
-        <entry field="true" id="12" symbol="FABS_NAMES"/>
-        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-        <entry id="8389346" symbol="text"/>
-        <entry field="true" id="8389063" symbol="identifier"/>
-        <entry field="true" id="8388694" symbol="count1"/>
-        <entry field="true" id="13" symbol="FABS_TIMES"/>
+        <entry field="true" id="42" symbol="rt_lb_title"/>
         <entry id="25" module="true" symbol="Menus"/>
-        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="41" symbol="routine_labels"/>
+        <entry field="true" id="33" symbol="rt_tm_title"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="8388987" method="true" symbol="vibrate"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="8388696" symbol="timer1"/>
+        <entry id="19" object="true" symbol="AbsTimerApp"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="21" symbol="manager"/>
+        <entry field="true" id="32" symbol="rt_nm_title"/>
+        <entry id="27" object="true" symbol="MainMenu"/>
+        <entry field="true" id="45" symbol="numberOfRoutines"/>
+        <entry id="8388985" method="true" symbol="playTone"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="30" symbol="display_wake_enabled"/>
+        <entry field="true" id="12" symbol="running"/>
+        <entry field="true" id="29" symbol="routine_names"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="26" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="46" symbol="view"/>
+        <entry id="49" method="true" symbol="checkArrFromStr2D"/>
+        <entry id="48" method="true" symbol="checkArrFromStr1D"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
+        <entry field="true" id="34" symbol="routine_times"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="24" module="true" symbol="Layouts"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
+        <entry id="8388698" method="true" symbol="start"/>
+        <entry field="true" id="13" symbol="names"/>
+        <entry id="51" method="true" symbol="pause"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="15" symbol="settingsValid"/>
+        <entry field="true" id="8388694" symbol="count1"/>
+        <entry id="8388988" method="true" symbol="backlight"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
         <entry id="8388635" module="true" symbol="Application"/>
-        <entry id="21" object="true" symbol="AbsTimerApp"/>
+        <entry field="true" id="8389642" symbol="title"/>
+        <entry id="55" method="true" symbol="getArrFromStr2D"/>
+        <entry field="true" id="36" symbol="menu_label_5"/>
+        <entry field="true" id="38" symbol="menu_label_4"/>
+        <entry field="true" id="37" symbol="menu_label_3"/>
+        <entry field="true" id="40" symbol="menu_label_2"/>
+        <entry field="true" id="39" symbol="menu_label_1"/>
+        <entry id="54" method="true" symbol="getArrFromStr1D"/>
     </symbolTable>
     <localVars>
-        <entry endPc="268435763" name="dc" stackId="1" startPc="268435647"/>
-        <entry endPc="268436359" name="vibeData" stackId="2" startPc="268436289"/>
-        <entry endPc="268436692" name="string" stackId="3" startPc="268435772"/>
-        <entry endPc="268436693" name="dc" stackId="1" startPc="268435768"/>
-        <entry endPc="268436726" name="state" stackId="1" startPc="268436721"/>
-        <entry endPc="268436731" name="state" stackId="1" startPc="268436726"/>
-        <entry endPc="268437099" name="item" stackId="1" startPc="268436941"/>
-        <entry endPc="268437442" name="rez_cmp_local_text_2807025713" stackId="2" startPc="268437111"/>
-        <entry endPc="268437442" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268437111"/>
-        <entry endPc="268437443" name="dc" stackId="1" startPc="268437099"/>
+        <entry endPc="268435746" name="labelsStr" stackId="3" startPc="268435503"/>
+        <entry endPc="268435746" name="labelsArr" stackId="5" startPc="268435503"/>
+        <entry endPc="268435746" name="timesStr" stackId="4" startPc="268435503"/>
+        <entry endPc="268435746" name="namesStr" stackId="2" startPc="268435503"/>
+        <entry arg="true" endPc="268435750" name="valid" stackId="1" startPc="268435456"/>
+        <entry arg="true" endPc="268436090" name="dc" stackId="1" startPc="268436015"/>
+        <entry endPc="268437305" name="string" stackId="3" startPc="268436491"/>
+        <entry endPc="268437305" name="numSecs" stackId="2" startPc="268436491"/>
+        <entry endPc="268437477" name="string" stackId="4" startPc="268437308"/>
+        <entry arg="true" endPc="268437478" name="dc" stackId="1" startPc="268436423"/>
+        <entry endPc="268437676" name="i" stackId="5" startPc="268437539"/>
+        <entry endPc="268437679" name="temp" stackId="4" startPc="268437487"/>
+        <entry endPc="268437679" name="toReturn" stackId="3" startPc="268437487"/>
+        <entry arg="true" endPc="268437680" name="type" stackId="2" startPc="268437483"/>
+        <entry arg="true" endPc="268437680" name="str" stackId="1" startPc="268437483"/>
+        <entry endPc="268437870" name="i" stackId="5" startPc="268437736"/>
+        <entry endPc="268437873" name="temp" stackId="4" startPc="268437684"/>
+        <entry endPc="268437873" name="toReturn" stackId="3" startPc="268437684"/>
+        <entry arg="true" endPc="268437874" name="type" stackId="2" startPc="268437680"/>
+        <entry arg="true" endPc="268437874" name="str" stackId="1" startPc="268437680"/>
+        <entry endPc="268438037" name="vibeData" stackId="3" startPc="268437973"/>
+        <entry arg="true" endPc="268438041" name="two" stackId="2" startPc="268437917"/>
+        <entry arg="true" endPc="268438041" name="one" stackId="1" startPc="268437917"/>
+        <entry arg="true" endPc="268438253" name="tone" stackId="1" startPc="268438041"/>
+        <entry endPc="268438410" name="i" stackId="8" startPc="268438393"/>
+        <entry endPc="268438413" name="result" stackId="7" startPc="268438257"/>
+        <entry endPc="268438413" name="location" stackId="6" startPc="268438257"/>
+        <entry endPc="268438413" name="index" stackId="5" startPc="268438257"/>
+        <entry endPc="268438413" name="array" stackId="4" startPc="268438257"/>
+        <entry arg="true" endPc="268438414" name="len" stackId="3" startPc="268438253"/>
+        <entry arg="true" endPc="268438414" name="string" stackId="1" startPc="268438253"/>
+        <entry arg="true" endPc="268438414" name="splitter" stackId="2" startPc="268438253"/>
+        <entry arg="true" endPc="268438469" name="valid" stackId="1" startPc="268438414"/>
+        <entry arg="true" endPc="268438469" name="mgr" stackId="2" startPc="268438414"/>
+        <entry endPc="268438759" name="menuItem" stackId="4" startPc="268438702"/>
+        <entry endPc="268438772" name="i" stackId="3" startPc="268438702"/>
+        <entry endPc="268438772" name="labelsArr" stackId="1" startPc="268438550"/>
+        <entry endPc="268438772" name="n" stackId="2" startPc="268438550"/>
+        <entry endPc="268438946" name="menuItem" stackId="5" startPc="268438775"/>
+        <entry endPc="268439138" name="i" stackId="4" startPc="268439034"/>
+        <entry endPc="268439161" name="temp" stackId="3" startPc="268438951"/>
+        <entry endPc="268439161" name="toReturn" stackId="2" startPc="268438951"/>
+        <entry endPc="268439161" name="str" stackId="1" startPc="268438951"/>
+        <entry arg="true" endPc="268439396" name="keyEvent" stackId="1" startPc="268439162"/>
+        <entry arg="true" endPc="268439486" name="item" stackId="1" startPc="268439419"/>
+        <entry arg="true" endPc="268439509" name="item" stackId="1" startPc="268439486"/>
+        <entry arg="true" endPc="268439619" name="state" stackId="1" startPc="268439614"/>
+        <entry arg="true" endPc="268439624" name="state" stackId="1" startPc="268439619"/>
+        <entry endPc="268440081" name="labelsStr" stackId="1" startPc="268439735"/>
+        <entry endPc="268440081" name="timesStr" stackId="3" startPc="268439735"/>
+        <entry endPc="268440081" name="namesStr" stackId="2" startPc="268439735"/>
+        <entry arg="true" endPc="268440087" name="isLabel" stackId="3" startPc="268440082"/>
+        <entry arg="true" endPc="268440087" name="type" stackId="2" startPc="268440082"/>
+        <entry arg="true" endPc="268440087" name="str" stackId="1" startPc="268440082"/>
+        <entry arg="true" endPc="268440092" name="type" stackId="2" startPc="268440087"/>
+        <entry arg="true" endPc="268440092" name="str" stackId="1" startPc="268440087"/>
+        <entry endPc="268440273" name="rez_cmp_local_text_1163997191" stackId="2" startPc="268440104"/>
+        <entry arg="true" endPc="268440274" name="dc" stackId="1" startPc="268440092"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
         <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-        <dataEntry offset="270" parentId="globals" symbolId="AbsTimerDelegate" type="class"/>
-        <dataEntry offset="325" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry offset="404" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry offset="451" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry offset="490" parentId="Menus" symbolId="MainMenu" type="class"/>
-        <dataEntry offset="537" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="568" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="607" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="638" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="709" parentId="globals" symbolId="AbsTimerMenuDelegate" type="class"/>
-        <dataEntry offset="764" parentId="globals" symbolId="AbsTimerApp" type="class"/>
-        <dataEntry offset="835" parentId="globals" symbolId="AbsTimerView" type="class"/>
+        <dataEntry offset="238" parentId="globals" symbolId="AbsTimerDelegate" type="class"/>
+        <dataEntry offset="341" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="420" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="459" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="498" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry offset="545" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="576" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="615" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="646" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="805" parentId="globals" symbolId="AbsTimerMenuDelegate" type="class"/>
+        <dataEntry offset="868" parentId="globals" symbolId="AbsTimerApp" type="class"/>
+        <dataEntry offset="995" parentId="globals" symbolId="AbsTimerView" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="initialize" parent="AbsTimerView">
+            <param id="valid"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="callback1" parent="AbsTimerView">
@@ -187,6 +428,18 @@
             <param id="dc"/>
             <documentation/>
         </functionEntry>
+        <functionEntry accessMode="public" name="start" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="pause" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="skip" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="reset" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
         <functionEntry accessMode="public" name="onShow" parent="AbsTimerView">
             <documentation/>
         </functionEntry>
@@ -195,6 +448,63 @@
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onHide" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getArrFromStr1D" parent="AbsTimerView">
+            <param id="str"/>
+            <param id="type"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getArrFromStr2D" parent="AbsTimerView">
+            <param id="str"/>
+            <param id="type"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="startOrStopTimer" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="vibrate" parent="AbsTimerView">
+            <param id="one"/>
+            <param id="two"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="playTone" parent="AbsTimerView">
+            <param id="tone"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="toArray" parent="AbsTimerView">
+            <param id="string"/>
+            <param id="splitter"/>
+            <param id="len"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AbsTimerDelegate">
+            <param id="valid"/>
+            <param id="mgr"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="AbsTimerDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateMenu" parent="AbsTimerDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getLabels" parent="AbsTimerDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="AbsTimerDelegate">
+            <param id="keyEvent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AbsTimerMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="AbsTimerMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="AbsTimerMenuDelegate">
+            <param id="item"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="AbsTimerApp">
@@ -211,17 +521,21 @@
         <functionEntry accessMode="public" name="getInitialView" parent="AbsTimerApp">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="AbsTimerDelegate">
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="AbsTimerApp">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onMenu" parent="AbsTimerDelegate">
+        <functionEntry accessMode="public" name="checkSettings" parent="AbsTimerApp">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="AbsTimerMenuDelegate">
+        <functionEntry accessMode="public" name="checkArrFromStr1D" parent="AbsTimerApp">
+            <param id="str"/>
+            <param id="type"/>
+            <param id="isLabel"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onMenuItem" parent="AbsTimerMenuDelegate">
-            <param id="item"/>
+        <functionEntry accessMode="public" name="checkArrFromStr2D" parent="AbsTimerApp">
+            <param id="str"/>
+            <param id="type"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
