@@ -1,6 +1,7 @@
 <resources>
 
 <properties>
+<<<<<<< HEAD
 <property id="beep_tone_enabled" type="boolean">true</property>
 <property id="vibrate_enabled" type="boolean">true</property>
 <property id="display_wake_enabled" type="boolean">true</property>
@@ -9,6 +10,12 @@
 <property id="routine_times" type="string">[30,30,30,30,30,30,30,30,30,60][30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,60][60,60,60,60,60][25,25,25,25,25,25,25,25,25,25,25,25][30,100,60,30,30,30]</property>
 
 <property id="routine_labels" type="string">Five Minute,Ten Minute,Plank,Stretching,Myrtles</property>
+=======
+<property id="routine_labels" type="string">Five Minute,Ten Minute,Plank</property>
+<property id="routine_names" type="string">[Crunches,Crossovers,Crossovers #2,Jackknives,Penguins,Jackknives #2,Circles,Circles #2,Bicycles,Plank][Crossovers,Crossovers #2,Jackknives,Side Crunches,Jackknives #2,Side Crunches #2,Penguins,Russian Twists,Baby Pushers,Circles,Circles #2,Butt Lifts,Flutters,Leg Lifts,Bicycles,Side Plank,Side Plank #2,Plank][Plank,Side Plank,Side Plank #2,High Plank,Shoulder Taps]</property>
+<property id="routine_times" type="string">[30,30,30,30,30,30,30,30,30,60][30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,60][60,60,60,60,60]</property>
+
+>>>>>>> ad973aae1f076195195ec3a56a65d65e96ca7e2b
 
 <property id="label_1" type="string">Five Minute</property>
 <property id="names_1" type="string">Crunches,Crossovers,Crossovers #2,Jackknives,Penguins,Jackknives #2,Circles,Circles #2,Bicycles,Plank</property>
@@ -22,6 +29,7 @@
 <property id="names_3" type="string">Plank,Side Plank,Side Plank #2,High Plank,Shoulder Taps</property>
 <property id="times_3" type="string">60,60,60,60,60</property>
 
+<<<<<<< HEAD
 <property id="label_4" type="string">Stretching</property>
 <property id="names_4" type="string">Down the Middle,To the Right,To the Left,Quad Stretch,Quad Stretch #2,UCLA,UCLA #2,Butt Stretch,Butt Stretch #2,Downward Dog,Upward Dog,Hip Stretch</property>
 <property id="times_4" type="string">25,25,25,25,25,25,25,25,25,25,25,25</property>
@@ -30,6 +38,8 @@
 <property id="names_5" type="string">Clamshells,Leg Lifts,Circles,Fire Hydrants,Donkey Whips,Scorpions</property>
 <property id="times_5" type="string">30,100,60,30,30,30</property>
 
+=======
+>>>>>>> ad973aae1f076195195ec3a56a65d65e96ca7e2b
 </properties>
 
 </resources>

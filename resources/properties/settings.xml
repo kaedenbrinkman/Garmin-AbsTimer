@@ -1,4 +1,5 @@
 <settings>
+<<<<<<< HEAD
 <setting propertyKey="@Properties.beep_tone_enabled" title="@Strings.beep_tone_enabled">
 <settingConfig type="boolean" />
 </setting>
@@ -8,6 +9,8 @@
 <setting propertyKey="@Properties.display_wake_enabled" title="@Strings.display_wake_enabled">
 <settingConfig type="boolean" />
 </setting>
+=======
+>>>>>>> ad973aae1f076195195ec3a56a65d65e96ca7e2b
 
 <setting propertyKey="@Properties.label_1" title="@Strings.rt_lb_title">
 <settingConfig type="alphaNumeric" />
@@ -39,6 +42,7 @@
 <settingConfig type="alphaNumeric" />
 </setting>
 
+<<<<<<< HEAD
 <setting propertyKey="@Properties.label_4" title="@Strings.rt_lb_title">
 <settingConfig type="alphaNumeric" />
 </setting>
@@ -59,4 +63,6 @@
 <settingConfig type="alphaNumeric" />
 </setting>
 
+=======
+>>>>>>> ad973aae1f076195195ec3a56a65d65e96ca7e2b
 </settings>
