@@ -14,7 +14,7 @@ Download it from the [Garmin Connect IQ app store](https://apps.garmin.com/en-US
 
 
 ## Compatibility
-Right now, the app is compatible with most of the modern Garmin watches. If you have an older watch like the Forerunner 235, it is currently not compatible. Although, you can manually install [release 1.0.0](https://github.com/kaedenbrinkman/Garmin-AbsTimer/releases) by copying the respective .prg file into the /APPS folder on your device via USB, and you should be able to use it.
+Right now, the app is compatible with most of the modern Garmin watches. If you have an older watch like the Forerunner 235, it is currently not compatible. Although, you can manually install [release 1.0.0](https://github.com/kaedenbrinkman/Garmin-AbsTimer/releases/tag/v1) by copying the respective .prg file into the /APPS folder on your device via USB, and you should be able to use it.
 
 
 
