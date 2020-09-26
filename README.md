@@ -10,7 +10,7 @@ By [kaedenbrinkman](https://github.com/kaedenbrinkman)
 -	If you select a new type of abs, the timer will reset. AbsTimer should remember what abs you did last and display that automatically when you open the application in the future.
 
 ## Installation
-Download it from the [Garmin Connect IQ app](https://apps.garmin.com/en-US/apps/851d7855-fcfe-45c6-86bb-a9488398ffdf).
+Download it from the [Garmin Connect IQ app store](https://apps.garmin.com/en-US/apps/851d7855-fcfe-45c6-86bb-a9488398ffdf).
 
 
 ## Compatibility
