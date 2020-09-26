@@ -14,18 +14,7 @@ Download it from the [Garmin Connect IQ app store](https://apps.garmin.com/en-US
 
 
 ## Compatibility
-Right now, the Connect IQ compatible list includes:
-
-- Fenix 6 series (all models)
-- Fenix 5 (all models)
-- Fenix 3/3 HR
-- Forerunner 45, 230, 235, 245, 245 Music, 630, 645, 645 Music, 935/945, 735XT and 920XT
-- Vivoactive, Vivoactive HR and Vivoactive 3, Vivoactive 3 Music, Vivoactive 4/4S, Venu
-- Approach S60
-- Edge 520, 820/830, 1000/1030
-- D2 Bravo, Quatix 5, Epix, Oregon
-- Instinct
-- Marq (all models)
+Right now, the app is compatible with most of the modern Garmin watches. If you have an older watch like the Forerunner 235, it is currently not compatible. Although, you can manually install [release 1.0.0](https://github.com/kaedenbrinkman/Garmin-AbsTimer/releases) by copying the respective .prg file into the /APPS folder on your device via USB, and you should be able to use it.
 
 
 
