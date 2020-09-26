@@ -5,8 +5,9 @@ By [kaedenbrinkman](https://github.com/kaedenbrinkman)
 
 ## Instructions
 -	Usage varies by watch model. On Forerunner 245, press START as if you were going to start an activity. There should be a new activity option called “AbsTimer.” Select it.
--	The app will automatically start Five Minute Abs. It displays the current activity, along with the number of seconds until it is time to switch. After each activity is done, the watch will sound a tone and/or vibrate (depending on watch hardware). When it reaches the end, the display will read “Complete!”
--	Press and hold one of your physical buttons to change what type of abs you are doing. On the Forerunner 245, press and hold the UP button. On Venu, press and hold the back button. You can now select either Ten Minute Abs or Plank Abs as well. If you select the abs that you were already doing, nothing will happen. If you select a new type of abs, the timer will reset. AbsTimer should remember what abs you did last and display that automatically when you open the application in the future.
+-	The app will show Five Minute Abs. Press the START button to start or pause the routine. Press the MENU button (UP button on the 245, BACK button on the Venu, etc.) to change the routine. Press the DOWN button to skip to the next activity.
+- It displays the current activity, along with the number of seconds until it is time to switch. After each activity is done, the watch will sound a tone and/or vibrate (depending on watch hardware) - these can be changed in the app settings in the Garmin Connect or Connect IQ app. When it reaches the end, the display will read “Complete!”
+-	If you select a new type of abs, the timer will reset. AbsTimer should remember what abs you did last and display that automatically when you open the application in the future.
 
 ## Installation
 Download it from the [Garmin Connect IQ app](https://apps.garmin.com/en-US/apps/851d7855-fcfe-45c6-86bb-a9488398ffdf).
