@@ -3,8 +3,13 @@ using Toybox.WatchUi;
 
 class AbsTimerApp extends Application.AppBase {
 
+	var settingsValid = true;
+	var view = null;
     function initialize() {
         AppBase.initialize();
+        Application.getApp().setProperty("settingsValid", true);
+        checkSettings();
+        view = new AbsTimerView(settingsValid);
     }
 
     // onStart() is called on application start up
@@ -17,7 +22,22 @@ class AbsTimerApp extends Application.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-        return [ new AbsTimerView(), new AbsTimerDelegate() ];
+        return [ view, new AbsTimerDelegate(settingsValid, view) ];
     }
+    
+    function onSettingsChanged() {
+            checkSettings();
+            WatchUi.requestUpdate();
+    }
+    
+    function checkSettings() {
+    	settingsValid = true;
+    	
+    	//Check settings here
+    	
+        System.println(settingsValid);
+        Application.getApp().setProperty("settingsValid", settingsValid);
+    }
+    
 
 }

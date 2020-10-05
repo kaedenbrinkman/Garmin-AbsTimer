@@ -1,0 +1,43 @@
+<resources>
+
+<properties>
+<property id="beep_tone_enabled" type="boolean">true</property>
+<property id="vibrate_enabled" type="boolean">true</property>
+<property id="display_wake_enabled" type="boolean">true</property>
+
+<property id="routine_names" type="string">[]</property>
+<property id="routine_times" type="string">[]</property>
+
+<property id="routine_labels" type="string">[]</property>
+
+<property id="label_1" type="string">Five Minute</property>
+<property id="names_1" type="string">Crunches,Crossovers,Crossovers #2,Jackknives,Penguins,Jackknives #2,Circles,Circles #2,Bicycles,Plank</property>
+<property id="times_1" type="string">30,30,30,30,30,30,30,30,30,60</property>
+
+<property id="label_2" type="string">Ten Minute</property>
+<property id="names_2" type="string">Crossovers,Crossovers #2,Jackknives,Side Crunches,Jackknives #2,Side Crunches #2,Penguins,Russian Twists,Baby Pushers,Circles,Circles #2,Butt Lifts,Flutters,Leg Lifts,Bicycles,Side Plank,Side Plank #2,Plank</property>
+<property id="times_2" type="string">30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,60</property>
+
+<property id="label_3" type="string">Plank</property>
+<property id="names_3" type="string">Plank,Side Plank,Side Plank #2,High Plank,Shoulder Taps</property>
+<property id="times_3" type="string">60,60,60,60,60</property>
+
+<property id="label_4" type="string">Stretching</property>
+<property id="names_4" type="string">Down the Middle,To the Right,To the Left,Quad Stretch,Quad Stretch #2,UCLA,UCLA #2,Knee Hug,Knee Hug #2Butt Stretch,Butt Stretch #2,Downward Dog,Upward Dog,Hip Stretch, Hip Stretch #2,Child's Pose</property>
+<property id="times_4" type="string">30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30</property>
+
+<property id="label_5" type="string">Myrtles</property>
+<property id="names_5" type="string">Clamshells,Leg Lifts,Circles,Fire Hydrants,Donkey Whips,Scorpions</property>
+<property id="times_5" type="string">90,160,120,90,90,90</property>
+
+<property id="label_6" type="string">Lunges</property>
+<property id="names_6" type="string">Forward,Forward w/ Twist,Side,Backward,Backward 45</property>
+<property id="times_6" type="string">60,60,60,60,60</property>
+
+<property id="label_7" type="string">Drills</property>
+<property id="names_7" type="string">Arms,Knee Hugs,High Knee Skips,High Knees,Butt Kickers,Backwards,Shaggies,Bounds,Qi Stretch,Buildups</property>
+<property id="times_7" type="string">60,60,60,60,60,60,60,120,120,120,200</property>
+
+</properties>
+
+</resources>
