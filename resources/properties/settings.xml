@@ -1,4 +1,11 @@
 <settings>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> bd6b993549ff57e8ba678d89cec55d1fb8d5d858
+>>>>>>> 9fe8574d5142b84f774435ed1e0d6db92aa4b0ec
 <setting propertyKey="@Properties.beep_tone_enabled" title="@Strings.beep_tone_enabled">
 <settingConfig type="boolean" />
 </setting>
@@ -8,6 +15,14 @@
 <setting propertyKey="@Properties.display_wake_enabled" title="@Strings.display_wake_enabled">
 <settingConfig type="boolean" />
 </setting>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> ad973aae1f076195195ec3a56a65d65e96ca7e2b
+>>>>>>> bd6b993549ff57e8ba678d89cec55d1fb8d5d858
+>>>>>>> 9fe8574d5142b84f774435ed1e0d6db92aa4b0ec
 
 <setting propertyKey="@Properties.label_1" title="@Strings.rt_lb_title">
 <settingConfig type="alphaNumeric" />
@@ -39,6 +54,13 @@
 <settingConfig type="alphaNumeric" />
 </setting>
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> bd6b993549ff57e8ba678d89cec55d1fb8d5d858
+>>>>>>> 9fe8574d5142b84f774435ed1e0d6db92aa4b0ec
 <setting propertyKey="@Properties.label_4" title="@Strings.rt_lb_title">
 <settingConfig type="alphaNumeric" />
 </setting>
@@ -59,6 +81,10 @@
 <settingConfig type="alphaNumeric" />
 </setting>
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 9fe8574d5142b84f774435ed1e0d6db92aa4b0ec
 <setting propertyKey="@Properties.label_6" title="@Strings.rt_lb_title">
 <settingConfig type="alphaNumeric" />
 </setting>
@@ -79,4 +105,11 @@
 <settingConfig type="alphaNumeric" />
 </setting>
 
+<<<<<<< HEAD
+=======
+=======
+=======
+>>>>>>> ad973aae1f076195195ec3a56a65d65e96ca7e2b
+>>>>>>> bd6b993549ff57e8ba678d89cec55d1fb8d5d858
+>>>>>>> 9fe8574d5142b84f774435ed1e0d6db92aa4b0ec
 </settings>
