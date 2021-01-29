@@ -14,9 +14,14 @@
     <string id="routine_times">times</string>
     <string id="rt_nm_title">Routine Names (Comma-Separated)</string>
     <string id="rt_lb_title">Routine</string>
+    <string id="rt_lb_type">Routine Type</string>
     <string id="rt_tm_title">Routine Times (Comma-Separated)</string>
     
     <string id="beep_tone_enabled">Beep Tone (If Available)</string>
     <string id="vibrate_enabled">Vibrate (If Available)</string>
     <string id="display_wake_enabled">Display Wake (If Available)</string>
+    <string id="activity_recording_enabled">Record an Activity (Type Set Below)</string>
+    
+    <string id="opt_type_0">Strength Activity</string>
+    <string id="opt_type_1">Stretching Activity</string>
 </strings>

@@ -1,11 +1,4 @@
 <settings>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> bd6b993549ff57e8ba678d89cec55d1fb8d5d858
->>>>>>> 9fe8574d5142b84f774435ed1e0d6db92aa4b0ec
 <setting propertyKey="@Properties.beep_tone_enabled" title="@Strings.beep_tone_enabled">
 <settingConfig type="boolean" />
 </setting>
@@ -15,15 +8,19 @@
 <setting propertyKey="@Properties.display_wake_enabled" title="@Strings.display_wake_enabled">
 <settingConfig type="boolean" />
 </setting>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-=======
->>>>>>> ad973aae1f076195195ec3a56a65d65e96ca7e2b
->>>>>>> bd6b993549ff57e8ba678d89cec55d1fb8d5d858
->>>>>>> 9fe8574d5142b84f774435ed1e0d6db92aa4b0ec
+<setting propertyKey="@Properties.activity_recording_enabled" title="@Strings.activity_recording_enabled">
+<settingConfig type="boolean" />
+</setting>
 
+<setting propertyKey="@Properties.label_1" title="@Strings.rt_lb_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.type_1" title="@Strings.rt_lb_type">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.opt_type_0</listEntry>
+	<listEntry value="1">@Strings.opt_type_1</listEntry>
+</settingConfig>
+</setting>
 <setting propertyKey="@Properties.label_1" title="@Strings.rt_lb_title">
 <settingConfig type="alphaNumeric" />
 </setting>
@@ -37,6 +34,12 @@
 <setting propertyKey="@Properties.label_2" title="@Strings.rt_lb_title">
 <settingConfig type="alphaNumeric" />
 </setting>
+<setting propertyKey="@Properties.type_2" title="@Strings.rt_lb_type">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.opt_type_0</listEntry>
+	<listEntry value="1">@Strings.opt_type_1</listEntry>
+</settingConfig>
+</setting>
 <setting propertyKey="@Properties.names_2" title="@Strings.rt_nm_title">
 <settingConfig type="alphaNumeric" />
 </setting>
@@ -47,6 +50,12 @@
 <setting propertyKey="@Properties.label_3" title="@Strings.rt_lb_title">
 <settingConfig type="alphaNumeric" />
 </setting>
+<setting propertyKey="@Properties.type_3" title="@Strings.rt_lb_type">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.opt_type_0</listEntry>
+	<listEntry value="1">@Strings.opt_type_1</listEntry>
+</settingConfig>
+</setting>
 <setting propertyKey="@Properties.names_3" title="@Strings.rt_nm_title">
 <settingConfig type="alphaNumeric" />
 </setting>
@@ -54,15 +63,14 @@
 <settingConfig type="alphaNumeric" />
 </setting>
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> bd6b993549ff57e8ba678d89cec55d1fb8d5d858
->>>>>>> 9fe8574d5142b84f774435ed1e0d6db92aa4b0ec
 <setting propertyKey="@Properties.label_4" title="@Strings.rt_lb_title">
 <settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.type_4" title="@Strings.rt_lb_type">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.opt_type_0</listEntry>
+	<listEntry value="1">@Strings.opt_type_1</listEntry>
+</settingConfig>
 </setting>
 <setting propertyKey="@Properties.names_4" title="@Strings.rt_nm_title">
 <settingConfig type="alphaNumeric" />
@@ -74,6 +82,12 @@
 <setting propertyKey="@Properties.label_5" title="@Strings.rt_lb_title">
 <settingConfig type="alphaNumeric" />
 </setting>
+<setting propertyKey="@Properties.type_5" title="@Strings.rt_lb_type">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.opt_type_0</listEntry>
+	<listEntry value="1">@Strings.opt_type_1</listEntry>
+</settingConfig>
+</setting>
 <setting propertyKey="@Properties.names_5" title="@Strings.rt_nm_title">
 <settingConfig type="alphaNumeric" />
 </setting>
@@ -81,12 +95,14 @@
 <settingConfig type="alphaNumeric" />
 </setting>
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 9fe8574d5142b84f774435ed1e0d6db92aa4b0ec
 <setting propertyKey="@Properties.label_6" title="@Strings.rt_lb_title">
 <settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.type_6" title="@Strings.rt_lb_type">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.opt_type_0</listEntry>
+	<listEntry value="1">@Strings.opt_type_1</listEntry>
+</settingConfig>
 </setting>
 <setting propertyKey="@Properties.names_6" title="@Strings.rt_nm_title">
 <settingConfig type="alphaNumeric" />
@@ -98,6 +114,12 @@
 <setting propertyKey="@Properties.label_7" title="@Strings.rt_lb_title">
 <settingConfig type="alphaNumeric" />
 </setting>
+<setting propertyKey="@Properties.type_7" title="@Strings.rt_lb_type">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.opt_type_0</listEntry>
+	<listEntry value="1">@Strings.opt_type_1</listEntry>
+</settingConfig>
+</setting>
 <setting propertyKey="@Properties.names_7" title="@Strings.rt_nm_title">
 <settingConfig type="alphaNumeric" />
 </setting>
@@ -105,11 +127,4 @@
 <settingConfig type="alphaNumeric" />
 </setting>
 
-<<<<<<< HEAD
-=======
-=======
-=======
->>>>>>> ad973aae1f076195195ec3a56a65d65e96ca7e2b
->>>>>>> bd6b993549ff57e8ba678d89cec55d1fb8d5d858
->>>>>>> 9fe8574d5142b84f774435ed1e0d6db92aa4b0ec
 </settings>

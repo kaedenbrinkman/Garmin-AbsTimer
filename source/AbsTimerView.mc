@@ -4,6 +4,7 @@ using Toybox.Timer;
 using Toybox.Attention;
 using Toybox.Application.Storage;
 using Toybox.Application.Properties;
+using Toybox.ActivityRecording;
 // Storage.getValue("abs")
 
 var timer1;
@@ -20,6 +21,7 @@ var running = false;
 var names = [];
 var times = [];
 var settingsValid = true;
+var session = null;
 
 class AbsTimerView extends WatchUi.View {
 
@@ -102,6 +104,7 @@ class AbsTimerView extends WatchUi.View {
     function onUpdate(dc) {
     if (exercize >= times.size()) {
     	reset();
+    	save();
     }
     if (settingsValid) {
     	if (absType != null && Application.getApp().getProperty("abs") != null && absType != Application.getApp().getProperty("abs") && Application.getApp().getProperty("abs") >= 0 && Application.getApp().getProperty("abs") < names.size()) {
@@ -169,6 +172,33 @@ class AbsTimerView extends WatchUi.View {
     }
     
     function startOrStopTimer() {
+    if (Toybox has :ActivityRecording && Application.getApp().getProperty("activity_recording_enabled")) {                          // check device for activity recording
+    var label = Application.getApp().getProperty("label_" + (absType + 1));
+    var activityType = Application.getApp().getProperty("type_" + (absType + 1));
+    if (label == null) {
+    	label = "Abs";
+    }
+    if (activityType == 0) {
+    	activityType = ActivityRecording.SUB_SPORT_STRENGTH_TRAINING;
+    } else {
+        activityType = ActivityRecording.SUB_SPORT_FLEXIBILITY_TRAINING;
+    }
+       if ((session == null)) {
+           session = ActivityRecording.createSession({          // set up recording session
+                 :name=>label,                              // set session name
+                 :sport=>ActivityRecording.SPORT_TRAINING,       // set sport type
+                 :subSport=>activityType // set sub sport type
+           });
+           session.start();                                     // call start session
+       } else if (session.isRecording() == false) {
+       session.start();  
+       }
+       else if ((session != null) && session.isRecording()) {
+           session.stop();                                      // stop the session
+           //session.save();                                      // save the session
+           //session = null;                                      // set session control variable to null
+       }
+   }
 	    if(running) {
 	    	pause();
 	    } else {
@@ -184,6 +214,14 @@ class AbsTimerView extends WatchUi.View {
     			];
     		Attention.vibrate(vibeData);
 		}
+    }
+    
+    function save() {
+    	if (Toybox has :ActivityRecording && (session != null) && session.isRecording()) {                          // check device for activity recording
+           session.stop();                                      // stop the session
+           session.save();                                      // save the session
+           session = null;                                      // set session control variable to null
+         }
     }
     
     function playTone(tone) {
