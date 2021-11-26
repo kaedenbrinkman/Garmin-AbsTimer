@@ -22,6 +22,8 @@ var names = [];
 var times = [];
 var settingsValid = true;
 var session = null;
+var font_size = 0;
+var app = null;
 
 class AbsTimerView extends WatchUi.View {
 
@@ -29,10 +31,13 @@ class AbsTimerView extends WatchUi.View {
     	absType = 0;
     	settingsValid = valid;
         WatchUi.View.initialize();
-        System.println(Application.getApp().getProperty("abs"));
-        names = getArrFromStr1D(Application.getApp().getProperty("names_" + (absType + 1)));
-	    times = getArrFromStr1D(Application.getApp().getProperty("times_" + (absType + 1)));
-	    
+        app = Application.getApp();
+        System.println(app.getProperty("abs"));
+        names = getArrFromStr1D(app.getProperty("names_" + (absType + 1)));
+	    times = getArrFromStr1D(app.getProperty("times_" + (absType + 1)));
+	    font_size = app.getProperty("font_size");
+	    //Font size 0 -> normal
+	    //Font size 1 -> large
     }
     
     function callback1() {
@@ -91,6 +96,7 @@ class AbsTimerView extends WatchUi.View {
     	running = false;
     	exercize = 0;
     	count1 = 0;
+    	//session = null;
     }
 
     // Called when this View is brought to the foreground. Restore
@@ -103,16 +109,16 @@ class AbsTimerView extends WatchUi.View {
     // Update the view
     function onUpdate(dc) {
     if (exercize >= times.size()) {
-    	reset();
     	save();
+    	reset();
     }
     if (settingsValid) {
-    	if (absType != null && Application.getApp().getProperty("abs") != null && absType != Application.getApp().getProperty("abs") && Application.getApp().getProperty("abs") >= 0 && Application.getApp().getProperty("abs") < names.size()) {
-    		absType = Application.getApp().getProperty("abs");	//Storage.getValue("abs");
+    	if (absType != null && app.getProperty("abs") != null && absType != app.getProperty("abs") && app.getProperty("abs") >= 0 && app.getProperty("abs") < names.size()) {
+    		absType = app.getProperty("abs");	//Storage.getValue("abs");
     		restart();
-    		System.println("NEW ABTYPE DETECTED: " + absType);
-    		names = getArrFromStr1D(Application.getApp().getProperty("names_" + (absType + 1)));
-	        times = getArrFromStr1D(Application.getApp().getProperty("times_" + (absType + 1)));
+    		//System.println("NEW ABTYPE DETECTED: " + absType);
+    		names = getArrFromStr1D(app.getProperty("names_" + (absType + 1)));
+	        times = getArrFromStr1D(app.getProperty("times_" + (absType + 1)));
     	}
     	
     	var numSecs = (times[exercize]).toNumber();
@@ -137,7 +143,13 @@ class AbsTimerView extends WatchUi.View {
         } else {
         	string = "Complete!";
         }
-        dc.drawText(dc.getWidth() / 2, (dc.getHeight() / 2) - 30, Graphics.FONT_MEDIUM, string, Graphics.TEXT_JUSTIFY_CENTER);
+        dc.drawText(
+	        dc.getWidth() / 2,
+	        (dc.getHeight() / 2) - 30,
+	        font_size == 0 ? Graphics.FONT_MEDIUM : Graphics.FONT_LARGE,
+	        string,
+	        Graphics.TEXT_JUSTIFY_CENTER
+        );
         } else {
         	dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_BLACK);
         	dc.clear();
@@ -172,42 +184,60 @@ class AbsTimerView extends WatchUi.View {
     }
     
     function startOrStopTimer() {
-    if (Toybox has :ActivityRecording && Application.getApp().getProperty("activity_recording_enabled")) {                          // check device for activity recording
-    var label = Application.getApp().getProperty("label_" + (absType + 1));
-    var activityType = Application.getApp().getProperty("type_" + (absType + 1));
-    if (label == null) {
-    	label = "Abs";
-    }
-    if (activityType == 0) {
-    	activityType = ActivityRecording.SUB_SPORT_STRENGTH_TRAINING;
-    } else {
-        activityType = ActivityRecording.SUB_SPORT_FLEXIBILITY_TRAINING;
-    }
-       if ((session == null)) {
-           session = ActivityRecording.createSession({          // set up recording session
-                 :name=>label,                              // set session name
-                 :sport=>ActivityRecording.SPORT_TRAINING,       // set sport type
-                 :subSport=>activityType // set sub sport type
-           });
-           session.start();                                     // call start session
-       } else if (session.isRecording() == false) {
-       session.start();  
-       }
-       else if ((session != null) && session.isRecording()) {
-           session.stop();                                      // stop the session
-           //session.save();                                      // save the session
-           //session = null;                                      // set session control variable to null
-       }
-   }
+	    if (Toybox has :ActivityRecording && app.getProperty("activity_recording_enabled")) {                          // check device for activity recording
+	    var label = app.getProperty("label_" + (absType + 1));
+	    var activityType = app.getProperty("type_" + (absType + 1));
+	    if (label == null) {
+	    	label = "Abs";
+	    }
+	    if (activityType == 0) {
+	    	activityType = ActivityRecording.SUB_SPORT_STRENGTH_TRAINING;
+	    } else {
+	        activityType = ActivityRecording.SUB_SPORT_FLEXIBILITY_TRAINING;
+	    }
+	       if (session == null) {
+	           session = ActivityRecording.createSession({          // set up recording session
+	                 :name=>label,                              // set session name
+	                 :sport=>ActivityRecording.SPORT_TRAINING,       // set sport type
+	                 :subSport=>activityType // set sub sport type
+	           });
+	           session.start();                                     // call start session
+	       } else if (session.isRecording() == false) {
+	       session.start();  
+	       }
+	       else if ((session != null) && session.isRecording()) {
+	           session.stop();                                      // stop the session
+	           //session.save();                                      // save the session
+	           //session = null;                                      // set session control variable to null
+	       }
+	   }
 	    if(running) {
 	    	pause();
+	    	//app.openPausedMenu();
+	    	if (app.getProperty("activity_recording_enabled")) {
+	    		WatchUi.pushView( new Rez.Menus.PausedMenu(), new AbsTimerPausedMenuDelegate(self.method(:onPausedMenuSelected)), WatchUi.SLIDE_UP );
+	    	}
+	    	//WatchUi.pushView( menu, new AbsTimerPausedMenuDelegate(), WatchUi.SLIDE_IMMEDIATE );
 	    } else {
 	    	start();
 	    }
     }
     
+    function onPausedMenuSelected(result) {\
+    	if (result > 0) {
+    		playTone(3);
+    		reset();
+    		if (result == 1) {
+    			System.println("Saving...");
+    			save();
+    		}
+    	} else {			//Resume
+    		start();
+    	}
+    }
+    
     function vibrate(one, two) {
-    	if (Attention has :vibrate && Application.getApp().getProperty("vibrate_enabled")) {
+    	if (Attention has :vibrate && app.getProperty("vibrate_enabled")) {
     		var vibeData =
    				[
         			new Attention.VibeProfile(one, two),
@@ -217,21 +247,30 @@ class AbsTimerView extends WatchUi.View {
     }
     
     function save() {
-    	if (Toybox has :ActivityRecording && (session != null) && session.isRecording()) {                          // check device for activity recording
-           session.stop();                                      // stop the session
+    	if (Toybox has :ActivityRecording && (session != null)) {     // check device for activity recording
+	        if (session.isRecording()) {
+	           session.stop();                                      // stop the session
+            }
            session.save();                                      // save the session
            session = null;                                      // set session control variable to null
+           System.println("Session saved.");
+         } else if (Toybox has :ActivityRecording && (session != null)) {
+         	System.println("Session not recording.");
+         } else if (session == null) {
+         	System.println("Session is null");
          }
     }
     
     function playTone(tone) {
-    	if (Attention has :playTone && Application.getApp().getProperty("beep_tone_enabled")) {
+    	if (Attention has :playTone && app.getProperty("beep_tone_enabled")) {
 	    	if (tone == 0) {
 	    		Attention.playTone(Attention.TONE_START);
 	    	} else if (tone == 1) {
 	    		Attention.playTone(Attention.TONE_STOP);
 	    	}  else if (tone == 2) {
 	    		Attention.playTone(Attention.TONE_LAP);
+	    	} else if (tone == 3) {
+	    		Attention.playTone(Attention.TONE_SUCCESS);
 	    	} else {
 	    		System.println("Invalid tone string: " + tone);
 	    	}

@@ -24,4 +24,14 @@
     
     <string id="opt_type_0">Strength Activity</string>
     <string id="opt_type_1">Stretching Activity</string>
+    
+    <string id="font_size_label">Font Size</string>
+    <string id="font_size_label1">Normal</string>
+	<string id="font_size_label2">Large</string>
+	
+	<string id="paused_menu_resume">Resume</string>
+	<string id="paused_menu_save">Save</string>
+	<string id="paused_menu_discard">Discard</string>
+	
+   
 </strings>

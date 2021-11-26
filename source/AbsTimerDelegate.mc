@@ -4,6 +4,7 @@ using Toybox.Application as App;
 
 class AbsTimerDelegate extends Ui.BehaviorDelegate {
 	var menu;
+	var pausedMenu;
 	var settingsValid = true;
 	hidden var manager;
     function initialize(valid, mgr) {
@@ -19,11 +20,13 @@ class AbsTimerDelegate extends Ui.BehaviorDelegate {
 		//sys.println ("Menu pressed");
 		return true;
     }
+    
     function updateMenu() {
     	if (settingsValid) {
 	    	var labelsArr = getLabels();
 	        var n = labelsArr.size();
 	        menu = new Rez.Menus.MainMenu();
+	        pausedMenu = new Rez.Menus.PausedMenu();
 	        menu.deleteItem(0);
 	        menu.deleteItem(0);
 	        menu.deleteItem(0);

@@ -1,0 +1,5 @@
+<menu id="PausedMenu">
+    <menu-item id="p_resume" label="@Strings.paused_menu_resume" />
+    <menu-item id="p_save" label="@Strings.paused_menu_save" />
+    <menu-item id="p_discard" label="@Strings.paused_menu_discard" />
+</menu>

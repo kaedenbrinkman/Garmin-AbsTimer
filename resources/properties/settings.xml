@@ -11,6 +11,12 @@
 <setting propertyKey="@Properties.activity_recording_enabled" title="@Strings.activity_recording_enabled">
 <settingConfig type="boolean" />
 </setting>
+<setting propertyKey="@Properties.font_size" title="@Strings.font_size_label">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.font_size_label1</listEntry>
+	<listEntry value="1">@Strings.font_size_label2</listEntry>
+</settingConfig>
+</setting>
 
 <setting propertyKey="@Properties.label_1" title="@Strings.rt_lb_title">
 <settingConfig type="alphaNumeric" />

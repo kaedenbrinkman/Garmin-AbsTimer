@@ -1,6 +1,8 @@
 <resources>
 
 <properties>
+<property id="font_size" type="number">0</property>
+
 <property id="beep_tone_enabled" type="boolean">true</property>
 <property id="vibrate_enabled" type="boolean">true</property>
 <property id="display_wake_enabled" type="boolean">true</property>
