@@ -1,7 +1,7 @@
 #  AbsTimer for Garmin Smartwatches
 By [kaedenbrinkman](https://github.com/kaedenbrinkman)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kaedenbrinkman)
 
 
 ![alt text](doc/screen.png "AbsTimer Screen")
