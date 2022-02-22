@@ -16,18 +16,84 @@ Download it from the [Garmin Connect IQ app store](https://apps.garmin.com/en-US
 
 
 ## Compatibility
-Right now, the Connect IQ compatible list includes:
+Right now, the compatible list includes:
 
-- Fenix 6 series (all models)
-- Fenix 5 (all models)
-- Fenix 3/3 HR
-- Forerunner 45, 230, 235, 245, 245 Music, 630, 645, 645 Music, 935/945, 735XT and 920XT
-- Vivoactive, Vivoactive HR and Vivoactive 3, Vivoactive 3 Music, Vivoactive 4/4S, Venu
-- Approach S60
-- Edge 520, 820/830, 1000/1030
-- D2 Bravo, Quatix 5, Epix, Oregon
-- Instinct
-- Marq (all models)
+- Approach® S62
+- Captain Marvel
+- D2™ Air
+- D2™ Air X10
+- D2™ Charlie
+- D2™ Delta
+- D2™ Delta PX
+- D2™ Delta S
+- Darth Vader™
+- Descent™ MK2
+- Descent™ Mk1
+- Descent™ Mk2S
+- Enduro™
+- First Avenger
+- Forerunner® 245
+- Forerunner® 245 Music
+- Forerunner® 55
+- Forerunner® 645
+- Forerunner® 645 Music
+- Forerunner® 745
+- Forerunner® 935
+- Forerunner® 945
+- Forerunner® 945 LTE
+- Instinct® 2
+- Instinct® 2S
+- MARQ™ Adventurer
+- MARQ™ Athlete
+- MARQ™ Aviator
+- MARQ™ Captain
+- MARQ™ Commander
+- MARQ™ Driver
+- MARQ™ Expedition
+- MARQ™ Golfer
+- Mercedes-Benz Venu®
+- Mercedes-Benz Venu® 2
+- Mercedes-Benz Venu® 2S
+- Rey™
+- Venu®
+- Venu® 2
+- Venu® 2 Plus
+- Venu® 2S
+- Venu® Sq.
+- Venu® Sq. 
+- Venu® Sq. Music
+- epix™ (Gen 2)
+- fēnix® 5
+- fēnix® 5 Plus
+- fēnix® 5S
+- fēnix® 5S Plus
+- fēnix® 5X
+- fēnix® 5X Plus
+- fēnix® 6
+- fēnix® 6 Dual Power
+- fēnix® 6 Pro
+- fēnix® 6 Pro Dual Power
+- fēnix® 6 Pro Solar
+- fēnix® 6 Solar
+- fēnix® 6S
+- fēnix® 6S Dual Power
+- fēnix® 6S Pro
+- fēnix® 6S Pro Dual Power
+- fēnix® 6S Pro Solar
+- fēnix® 6S Solar
+- fēnix® 6X Pro
+- fēnix® 7
+- fēnix® 7S
+- fēnix® 7X
+- fēnix® Chronos
+- quatix® 6
+- quatix® 6X
+- upcoming device(s) 
+- vívoactive® 3
+- vívoactive® 3 Mercedes-Benz® Collection
+- vívoactive® 3 Music
+- vívoactive® 4
+- vívoactive® 4S
 
 
 
