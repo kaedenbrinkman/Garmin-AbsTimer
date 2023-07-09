@@ -34,6 +34,8 @@ Right now, the compatible list includes:
 - First Avenger
 - Forerunner® 245
 - Forerunner® 245 Music
+- Forerunner® 255
+- Forerunner® 265
 - Forerunner® 55
 - Forerunner® 645
 - Forerunner® 645 Music
@@ -41,6 +43,8 @@ Right now, the compatible list includes:
 - Forerunner® 935
 - Forerunner® 945
 - Forerunner® 945 LTE
+- Forerunner® 955
+- Forerunner® 965
 - Instinct® 2
 - Instinct® 2S
 - MARQ™ Adventurer
@@ -85,6 +89,9 @@ Right now, the compatible list includes:
 - fēnix® 7
 - fēnix® 7S
 - fēnix® 7X
+- fēnix® 7 Pro
+- fēnix® 7S Pro
+- fēnix® 7X Pro
 - fēnix® Chronos
 - quatix® 6
 - quatix® 6X
