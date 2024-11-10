@@ -19,6 +19,8 @@ Download it from the [Garmin Connect IQ app store](https://apps.garmin.com/en-US
 Right now, the compatible list includes:
 
 - Approach® S62
+- Approach® S70 42mm
+- Approach® S70 47mm
 - Captain Marvel
 - D2™ Air
 - D2™ Air X10
@@ -26,20 +28,59 @@ Right now, the compatible list includes:
 - D2™ Delta
 - D2™ Delta PX
 - D2™ Delta S
+- D2™ Mach 1
 - Darth Vader™
+- Descent™ G1
+- Descent™ MK1
 - Descent™ MK2
-- Descent™ Mk1
-- Descent™ Mk2S
+- Descent™ MK2S
+- Descent™ MK3 43mm
+- Descent™ MK3 51mm
 - Enduro™
-- First Avenger
+- Enduro™ 3
+- epix™ (Gen 2)
+- epix™ Pro 42mm
+- epix™ Pro 47mm
+- epix™ Pro 51mm
+- fēnix® 5
+- fēnix® 5 Plus
+- fēnix® 5S
+- fēnix® 5S Plus
+- fēnix® 5X
+- fēnix® 5X Plus
+- fēnix® 6
+- fēnix® 6 Pro
+- fēnix® 6S
+- fēnix® 6S Pro
+- fēnix® 6X Pro
+- fēnix® 7
+- fēnix® 7 Pro
+- fēnix® 7S
+- fēnix® 7S Pro
+- fēnix® 7X
+- fēnix® 7X Pro
+- fēnix® 8 43mm
+- fēnix® 8 47mm
+- fēnix® 8 Solar 47mm
+- fēnix® 8 Solar 51mm
+- fēnix® Chronos
+- fēnix® E
+- Forerunner® 165
+- Forerunner® 165M
 - Forerunner® 245
 - Forerunner® 245 Music
 - Forerunner® 255
+- Forerunner® 255 Music
+- Forerunner® 255S
+- Forerunner® 255S Music
 - Forerunner® 265
+- Forerunner® 265S
+- Forerunner® 45
 - Forerunner® 55
 - Forerunner® 645
 - Forerunner® 645 Music
 - Forerunner® 745
+- Forerunner® 920XT
 - Forerunner® 935
 - Forerunner® 945
 - Forerunner® 945 LTE
@@ -47,6 +88,14 @@ Right now, the compatible list includes:
 - Forerunner® 965
 - Instinct® 2
 - Instinct® 2S
+- Instinct® 2X
+- Instinct® Crossover
+- Legacy Hero Captain Marvel
+- Legacy Hero First Avenger
+- Legacy Saga Darth Vader
+- Legacy Saga Rey
+- MARQ™ 2
+- MARQ™ 2 Aviator
 - MARQ™ Adventurer
 - MARQ™ Athlete
 - MARQ™ Aviator
@@ -55,52 +104,23 @@ Right now, the compatible list includes:
 - MARQ™ Driver
 - MARQ™ Expedition
 - MARQ™ Golfer
-- Mercedes-Benz Venu®
-- Mercedes-Benz Venu® 2
-- Mercedes-Benz Venu® 2S
-- Rey™
 - Venu®
 - Venu® 2
 - Venu® 2 Plus
 - Venu® 2S
-- Venu® Sq.
-- Venu® Sq. 
-- Venu® Sq. Music
-- epix™ (Gen 2)
-- fēnix® 5
-- fēnix® 5 Plus
-- fēnix® 5S
-- fēnix® 5S Plus
-- fēnix® 5X
-- fēnix® 5X Plus
-- fēnix® 6
-- fēnix® 6 Dual Power
-- fēnix® 6 Pro
-- fēnix® 6 Pro Dual Power
-- fēnix® 6 Pro Solar
-- fēnix® 6 Solar
-- fēnix® 6S
-- fēnix® 6S Dual Power
-- fēnix® 6S Pro
-- fēnix® 6S Pro Dual Power
-- fēnix® 6S Pro Solar
-- fēnix® 6S Solar
-- fēnix® 6X Pro
-- fēnix® 7
-- fēnix® 7S
-- fēnix® 7X
-- fēnix® 7 Pro
-- fēnix® 7S Pro
-- fēnix® 7X Pro
-- fēnix® Chronos
-- quatix® 6
-- quatix® 6X
-- upcoming device(s) 
+- Venu® 3
+- Venu® 3S
+- Venu® D
+- Venu® Square
+- Venu® Square 2
+- Venu® Square 2 Music
 - vívoactive® 3
 - vívoactive® 3 Mercedes-Benz® Collection
 - vívoactive® 3 Music
+- vívoactive® 3 LTE
 - vívoactive® 4
 - vívoactive® 4S
+- vívoactive® 5
 
 
 
@@ -108,4 +128,4 @@ If there are any bugs or changes that you would like to report or suggest, [let 
 
 
 
-![alt text](doc/launch.png "AbsTimer Icon") ![alt text](doc/menu.png "AbsTimer Menu") 
+![alt text](doc/launch.png "AbsTimer Icon") ![alt text](doc/menu.png "AbsTimer Menu")
