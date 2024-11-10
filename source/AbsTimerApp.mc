@@ -7,7 +7,7 @@ class AbsTimerApp extends Application.AppBase {
 	var view = null;
     function initialize() {
         AppBase.initialize();
-        Application.getApp().setProperty("settingsValid", true);
+        Storage.setValue("settingsValid", true);
         checkSettings();
         view = new AbsTimerView(settingsValid);
     }
@@ -36,8 +36,7 @@ class AbsTimerApp extends Application.AppBase {
     	//Check settings here
     	
         System.println(settingsValid);
-        Application.getApp().setProperty("settingsValid", settingsValid);
+        Storage.setValue("settingsValid", settingsValid);
     }
-    
 
 }

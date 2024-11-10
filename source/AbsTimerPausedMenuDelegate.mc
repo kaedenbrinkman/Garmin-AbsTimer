@@ -4,11 +4,11 @@ using Toybox.WatchUi;
 using Toybox.System;
 using Toybox.Application;
 
-class AbsTimerPausedMenuDelegate extends WatchUi.MenuInputDelegate {
+class AbsTimerPausedMenuDelegate extends WatchUi.Menu2InputDelegate {
 	hidden var _callback;
     
     function initialize(callback) {
-		MenuInputDelegate.initialize();
+		WatchUi.Menu2InputDelegate.initialize();
 		_callback = callback;
 	}
 
@@ -24,9 +24,6 @@ class AbsTimerPausedMenuDelegate extends WatchUi.MenuInputDelegate {
     		result = 2;
     	}
     	_callback.invoke(result);
-		return true;
-    	//System.println(item);
-    	//app.setProperty("abs", item.getId().toNumber());
     }
     
 }

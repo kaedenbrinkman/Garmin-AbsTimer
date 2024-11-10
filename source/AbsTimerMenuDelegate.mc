@@ -3,23 +3,23 @@
 using Toybox.WatchUi;
 using Toybox.System;
 using Toybox.Application;
+using Toybox.Application.Storage;
 
 class AbsTimerMenuDelegate extends WatchUi.Menu2InputDelegate {
     function initialize() {
         Menu2InputDelegate.initialize();
-        
     }
 
     function onSelect(item) {
         //System.println(item.getId());
-        Application.getApp().setProperty("abs", item.getId().toNumber());
-        //System.println(Application.getApp().getProperty("abs"));
+        Storage.setValue("abs", item.getId());
+        //System.println(Storage.getValue("abs"));
         onBack();
     }
     
     function onMenuItem(item) {
     	System.println(item);
-    	//Application.getApp().setProperty("abs", item.getId().toNumber());
+    	//Storage.setValue("abs", item.getId().toNumber());
     }
     
 }

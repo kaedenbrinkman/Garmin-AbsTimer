@@ -5,7 +5,7 @@ using Toybox.Attention;
 using Toybox.Application.Storage;
 using Toybox.Application.Properties;
 using Toybox.ActivityRecording;
-// Storage.getValue("abs")
+using Toybox.Activity;
 
 var timer1;
 var count1 = 0;
@@ -32,10 +32,10 @@ class AbsTimerView extends WatchUi.View {
     	settingsValid = valid;
         WatchUi.View.initialize();
         app = Application.getApp();
-        System.println(app.getProperty("abs"));
-        names = getArrFromStr1D(app.getProperty("names_" + (absType + 1)));
-	    times = getArrFromStr1D(app.getProperty("times_" + (absType + 1)));
-	    font_size = app.getProperty("font_size");
+        System.println(Storage.getValue("abs"));
+        names = getArrFromStr1D(Properties.getValue("names_" + (absType + 1)));
+	    times = getArrFromStr1D(Properties.getValue("times_" + (absType + 1)));
+	    font_size = Properties.getValue("font_size");
 	    //Font size 0 -> normal
 	    //Font size 1 -> large
     }
@@ -44,7 +44,7 @@ class AbsTimerView extends WatchUi.View {
     	if (settingsValid) {
     		count1 += 1;
     		//if one second away, wake screen. Mainly for venu, as "no backlight" = screen is off.
-    		if (Attention has :backlight && Application.getApp().getProperty("display_wake_enabled") && (exercize >= times.size() || count1 == (times[exercize].toNumber() - 1))) {
+    		if (Attention has :backlight && Storage.getValue("display_wake_enabled") && (exercize >= times.size() || count1 == (times[exercize].toNumber() - 1))) {
     			Attention.backlight(true);
 			}
 		}
@@ -113,12 +113,12 @@ class AbsTimerView extends WatchUi.View {
     	reset();
     }
     if (settingsValid) {
-    	if (absType != null && app.getProperty("abs") != null && absType != app.getProperty("abs") && app.getProperty("abs") >= 0 && app.getProperty("abs") < names.size()) {
-    		absType = app.getProperty("abs");	//Storage.getValue("abs");
+    	if (absType != null && Storage.getValue("abs") != null && absType != Storage.getValue("abs") && Storage.getValue("abs") >= 0 && Storage.getValue("abs") < names.size()) {
+    		absType = Storage.getValue("abs");	//Storage.getValue("abs");
     		restart();
     		//System.println("NEW ABTYPE DETECTED: " + absType);
-    		names = getArrFromStr1D(app.getProperty("names_" + (absType + 1)));
-	        times = getArrFromStr1D(app.getProperty("times_" + (absType + 1)));
+    		names = getArrFromStr1D(Properties.getValue("names_" + (absType + 1)));
+	        times = getArrFromStr1D(Properties.getValue("times_" + (absType + 1)));
     	}
     	
     	var numSecs = (times[exercize]).toNumber();
@@ -184,21 +184,21 @@ class AbsTimerView extends WatchUi.View {
     }
     
     function startOrStopTimer() {
-	    if (Toybox has :ActivityRecording && app.getProperty("activity_recording_enabled")) {                          // check device for activity recording
-	    var label = app.getProperty("label_" + (absType + 1));
-	    var activityType = app.getProperty("type_" + (absType + 1));
+	    if (Toybox has :ActivityRecording && Properties.getValue("activity_recording_enabled")) {                          // check device for activity recording
+	    var label = Properties.getValue("label_" + (absType + 1));
+	    var activityType = Properties.getValue("type_" + (absType + 1));
 	    if (label == null) {
 	    	label = "Abs";
 	    }
 	    if (activityType == 0) {
-	    	activityType = ActivityRecording.SUB_SPORT_STRENGTH_TRAINING;
+	    	activityType = Activity.SUB_SPORT_STRENGTH_TRAINING;
 	    } else {
-	        activityType = ActivityRecording.SUB_SPORT_FLEXIBILITY_TRAINING;
+	        activityType = Activity.SUB_SPORT_FLEXIBILITY_TRAINING;
 	    }
 	       if (session == null) {
 	           session = ActivityRecording.createSession({          // set up recording session
 	                 :name=>label,                              // set session name
-	                 :sport=>ActivityRecording.SPORT_TRAINING,       // set sport type
+	                 :sport=>Activity.SPORT_TRAINING,       // set sport type
 	                 :subSport=>activityType // set sub sport type
 	           });
 	           session.start();                                     // call start session
@@ -214,7 +214,7 @@ class AbsTimerView extends WatchUi.View {
 	    if(running) {
 	    	pause();
 	    	//app.openPausedMenu();
-	    	if (app.getProperty("activity_recording_enabled")) {
+	    	if (Properties.getValue("activity_recording_enabled")) {
 	    		WatchUi.pushView( new Rez.Menus.PausedMenu(), new AbsTimerPausedMenuDelegate(self.method(:onPausedMenuSelected)), WatchUi.SLIDE_UP );
 	    	}
 	    	//WatchUi.pushView( menu, new AbsTimerPausedMenuDelegate(), WatchUi.SLIDE_IMMEDIATE );
@@ -237,7 +237,7 @@ class AbsTimerView extends WatchUi.View {
     }
     
     function vibrate(one, two) {
-    	if (Attention has :vibrate && app.getProperty("vibrate_enabled")) {
+    	if (Attention has :vibrate && Properties.getValue("vibrate_enabled")) {
     		var vibeData =
    				[
         			new Attention.VibeProfile(one, two),
@@ -262,7 +262,7 @@ class AbsTimerView extends WatchUi.View {
     }
     
     function playTone(tone) {
-    	if (Attention has :playTone && app.getProperty("beep_tone_enabled")) {
+    	if (Attention has :playTone && Properties.getValue("beep_tone_enabled")) {
 	    	if (tone == 0) {
 	    		Attention.playTone(Attention.TONE_START);
 	    	} else if (tone == 1) {

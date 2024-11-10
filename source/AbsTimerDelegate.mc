@@ -1,6 +1,8 @@
 using Toybox.WatchUi as Ui;
 using Toybox.System as sys;
 using Toybox.Application as App;
+using Toybox.Application.Storage;
+using Toybox.Application.Properties;
 
 class AbsTimerDelegate extends Ui.BehaviorDelegate {
 	var menu;
@@ -54,7 +56,7 @@ class AbsTimerDelegate extends Ui.BehaviorDelegate {
     	var numThings = 7;
     	var toReturn = new [numThings];
         for (var i = 0; i < numThings; i++) {
-        	toReturn[i] = Application.getApp().getProperty("label_" + (i + 1));
+        	toReturn[i] = Properties.getValue("label_" + (i + 1));
         }
 		//System.println(toReturn);
 		return toReturn;
